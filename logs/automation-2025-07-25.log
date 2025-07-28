@@ -1,0 +1,85 @@
+22:38:13.848 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:15)oggger - ********* Starting TC002_LoginTest*********** 
+22:38:14.105 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:22)oggger - Clicked on MyAccount Link
+22:38:14.558 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:24)oggger - Clicked on Login Link
+22:38:14.571 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:29)oggger - Providing login details
+22:38:15.965 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:36)oggger - Validating expected message
+22:38:16.032 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:44)oggger - *************Finished TC002_LoginTest***********
+22:39:09.085 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Workspace\Opencartv121\crossbrowsertesting.xml"
+22:39:09.679 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Workspace\Opencartv121\crossbrowsertesting.xml
+
+22:39:17.313 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - ******Starting TC001_AccountRegistrationTest****** 
+22:39:17.313 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - ******Starting TC001_AccountRegistrationTest****** 
+22:39:17.645 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:20)oggger - Clicked on MyAccount Link
+22:39:17.781 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:20)oggger - Clicked on MyAccount Link
+10:16:36.574 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Workspace\Opencartv121\grid-docker.xml"
+10:16:37.287 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Workspace\Opencartv121\grid-docker.xml
+
+10:17:40.456 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Workspace\Opencartv121\grid-docker.xml"
+10:17:40.927 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Workspace\Opencartv121\grid-docker.xml
+
+10:19:25.245 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Workspace\Opencartv121\grid-docker.xml"
+10:19:25.798 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Workspace\Opencartv121\grid-docker.xml
+
+10:21:10.834 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Workspace\Opencartv121\grid-docker.xml"
+10:21:11.611 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Workspace\Opencartv121\grid-docker.xml
+
+13:23:42.688 [main] ERROR org.testng.log4testng.Logger.error(Logger.java:165)oggger - C:\Workspace\Opencartv121\test-output\jquery-3.6.0.min.js
+java.nio.file.FileAlreadyExistsException: C:\Workspace\Opencartv121\test-output\jquery-3.6.0.min.js
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:87)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:231)
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:426)
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:215)
+	at java.base/java.nio.file.Files.copy(Files.java:2852)
+	at org.testng.reporters.jq.Main.generateReport(Main.java:95)
+	at org.testng.TestNG.generateReports(TestNG.java:1160)
+	at org.testng.TestNG.run(TestNG.java:1085)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+09:34:02.745 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Workspace\Opencartv121\grid-docker.xml"
+09:34:03.438 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Workspace\Opencartv121\grid-docker.xml
+
+22:49:55.797 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Workspace\Opencartv121\master.xml"
+22:49:56.581 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Workspace\Opencartv121\master.xml
+
+22:52:16.926 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Workspace\Opencartv121\master.xml"
+22:56:11.213 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Workspace\Opencartv121\master.xml"
+22:56:11.852 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Workspace\Opencartv121\master.xml
+
+23:00:30.819 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Workspace\Opencartv121\master.xml"
+23:00:31.627 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Workspace\Opencartv121\master.xml
+
+23:02:08.025 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Workspace\Opencartv121\master.xml"
+23:02:08.760 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Workspace\Opencartv121\master.xml
+
+23:13:40.745 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Workspace\Opencartv121\master.xml"
+23:13:41.433 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Workspace\Opencartv121\master.xml
+
+23:17:42.544 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Workspace\Opencartv121\master.xml"
+23:17:43.201 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Workspace\Opencartv121\master.xml
+
+23:17:53.138 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - ******Starting TC001_AccountRegistrationTest****** 
+23:17:53.943 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:20)oggger - Clicked on MyAccount Link
+23:17:54.860 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:22)oggger - Clicked on Register Link..
+23:17:54.878 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Providing customer details
+23:17:57.600 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:37)oggger - Validating expected message
+23:17:57.721 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ***** Finished TC001_AccountRegistrationTest
+23:18:01.606 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:15)oggger - ********* Starting TC002_LoginTest*********** 
+23:18:01.940 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:22)oggger - Clicked on MyAccount Link
+23:18:02.640 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:24)oggger - Clicked on Login Link
+23:18:02.660 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:29)oggger - Providing login details
+23:18:04.161 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:36)oggger - Validating expected message
