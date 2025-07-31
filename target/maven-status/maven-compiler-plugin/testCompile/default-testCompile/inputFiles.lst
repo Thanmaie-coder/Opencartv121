@@ -7,6 +7,7 @@ C:\Workspace\Opencartv121\src\test\java\testBase\Baseclass.java
 C:\Workspace\Opencartv121\src\test\java\testCases\TC001_AccountRegistrationTest.java
 C:\Workspace\Opencartv121\src\test\java\testCases\TC002_LoginTest.java
 C:\Workspace\Opencartv121\src\test\java\testCases\TC003_LoginDDT.java
+C:\Workspace\Opencartv121\src\test\java\testCases\TC004_Search.java
 C:\Workspace\Opencartv121\src\test\java\utilities\DataProviders.java
 C:\Workspace\Opencartv121\src\test\java\utilities\ExcelUtility.java
 C:\Workspace\Opencartv121\src\test\java\utilities\ExtentReportManager.java

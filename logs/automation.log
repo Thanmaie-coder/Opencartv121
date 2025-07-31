@@ -1,40 +1,6 @@
-23:18:04.297 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:44)oggger - *************Finished TC002_LoginTest***********
-23:19:03.890 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Workspace\Opencartv121\master.xml"
-23:19:09.547 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - ******Starting TC001_AccountRegistrationTest****** 
-23:19:09.869 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:20)oggger - Clicked on MyAccount Link
-23:19:10.488 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:22)oggger - Clicked on Register Link..
-23:19:10.495 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Providing customer details
-23:19:12.837 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:37)oggger - Validating expected message
-23:19:12.935 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ***** Finished TC001_AccountRegistrationTest
-23:19:15.641 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:15)oggger - ********* Starting TC002_LoginTest*********** 
-23:19:15.896 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:22)oggger - Clicked on MyAccount Link
-23:19:16.387 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:24)oggger - Clicked on Login Link
-23:19:16.397 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:29)oggger - Providing login details
-23:19:17.735 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:36)oggger - Validating expected message
-23:19:17.820 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:44)oggger - *************Finished TC002_LoginTest***********
-23:41:18.124 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Workspace\Opencartv121\master.xml"
-23:41:25.948 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - ******Starting TC001_AccountRegistrationTest****** 
-23:41:26.410 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:20)oggger - Clicked on MyAccount Link
-23:41:27.254 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:22)oggger - Clicked on Register Link..
-23:41:27.264 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Providing customer details
-23:41:29.689 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:37)oggger - Validating expected message
-23:41:29.791 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ***** Finished TC001_AccountRegistrationTest
-23:41:32.958 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:15)oggger - ********* Starting TC002_LoginTest*********** 
-23:41:33.264 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:22)oggger - Clicked on MyAccount Link
-23:41:33.768 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:24)oggger - Clicked on Login Link
-23:41:33.803 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:29)oggger - Providing login details
-23:41:35.168 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:36)oggger - Validating expected message
-23:41:35.262 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:44)oggger - *************Finished TC002_LoginTest***********
-23:50:46.693 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Workspace\Opencartv121\master.xml"
-23:50:51.867 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - ******Starting TC001_AccountRegistrationTest****** 
-23:50:52.189 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:20)oggger - Clicked on MyAccount Link
-23:50:52.766 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:22)oggger - Clicked on Register Link..
-23:50:52.782 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - Providing customer details
-23:50:54.987 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:37)oggger - Validating expected message
-23:50:55.072 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:57)oggger - ***** Finished TC001_AccountRegistrationTest
-23:50:57.895 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:15)oggger - ********* Starting TC002_LoginTest*********** 
-23:50:58.151 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:22)oggger - Clicked on MyAccount Link
-23:50:58.633 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:24)oggger - Clicked on Login Link
-23:50:58.644 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:29)oggger - Providing login details
-23:50:59.208 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:36)oggger - Validating expected message
-23:50:59.956 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:44)oggger - *************Finished TC002_LoginTest***********
+14:56:10.568 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:15)oggger - ********* Starting TC002_LoginTest*********** 
+14:56:10.843 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:22)oggger - Clicked on MyAccount Link
+14:56:11.287 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:24)oggger - Clicked on Login Link
+14:56:11.291 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:29)oggger - Providing login details
+14:56:12.493 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:36)oggger - Validating expected message
+14:56:12.565 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:44)oggger - *************Finished TC002_LoginTest***********
